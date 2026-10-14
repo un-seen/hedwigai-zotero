@@ -1,0 +1,13 @@
+{
+  "addons": {
+    "reference-checker@hedwigai.com": {
+      "updates": [
+        {
+          "version": "0.1.0",
+          "update_link": "https://github.com/un-seen/hedwigai-zotero/releases/download/v0.1.0/hedwigai-reference-checker-0.1.0.xpi",
+          "applications": { "zotero": { "strict_min_version": "6.999" } }
+        }
+      ]
+    }
+  }
+}

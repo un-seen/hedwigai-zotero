@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+  "name": "hedwigai Reference Checker",
+  "version": "0.1.0",
+  "description": "Check the items you select, or a whole collection, against Crossref: found, found with a different year or authors, or not found, and retracted papers flagged.",
+  "homepage_url": "https://www.hedwigai.com/reference-checker",
+  "author": "hedwigai inc",
+  "applications": {
+    "zotero": {
+      "id": "reference-checker@hedwigai.com",
+      "update_url": "https://raw.githubusercontent.com/un-seen/hedwigai-zotero/main/updates.json",
+      "strict_min_version": "6.999",
+      "strict_max_version": "8.*"
+    }
+  }
+}
